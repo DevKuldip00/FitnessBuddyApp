@@ -1,4 +1,4 @@
-![Picsart_25-04-04_13-12-33-282 (1)](https://github.com/user-attachments/assets/fc1ed028-c330-4b49-8522-e37b8247ef16)# 🏋️‍♂️ FitnessBuddyApp
+🏋️‍♂️ FitnessBuddyApp
 
 **FitnessBuddyApp** is a simple and effective Android app to help users check their health status based on BMI (Body Mass Index). It provides dynamic health suggestions with a beautiful UI using animations, RecyclerView, and custom logic.
 
